@@ -8,7 +8,14 @@ Cada projeto tem como aprimorar minhas habilidades de desenvolvimento front-end,
 ### 1. Order Summary Component
 Este é um projeto de componente de resumo de pedido. Acesse o link abaixo para visualizar:
 - [Order Summary Component](https://sobreirinha.github.io/frontend-mentor-projects/order-summary-component/index.html)
+<a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">Frontend Mentor</a>
 
 ### 2. QR Code Component
 Este é um projeto de componente de QR code. Acesse o link abaixo para visualizar:
 - [QR Code Component](https://sobreirinha.github.io/frontend-mentor-projects/qr-code-component-main/index.html)
+<a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Frontend Mentor</a>
+
+### 3. Social links profile main
+Este é um projeto de componente de Social links profile main. Acesse o link abaixo para visualizar:
+-[Social links profile main](https://sobreirinha.github.io/frontend-mentor-projects/social-links-profile-main/index.html)
+<a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ">Frontend Mentor</a>
