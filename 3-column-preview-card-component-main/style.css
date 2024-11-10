@@ -1,0 +1,107 @@
+@charset "UFT-8";
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Lexend+Deca:wght@100..900&display=swap');
+
+.attribution { font-size: 11px; text-align: center;}
+.attribution a { color: hsl(228, 45%, 44%); }
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{
+   height: 100vh;
+   background-color: hsl(0, 0%, 95%);
+}
+main { 
+   height: 90vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+section{
+   display: flex;
+   flex-direction: row;
+}
+div {
+   max-width: 250px;
+   height: 450px;
+   padding: 20px;
+   transition: transform 0.3s ease;
+}
+div img {
+   margin-top: 1.5rem;
+   margin-bottom: .7rem;
+}
+div h2 {
+   font-family: "Big Shoulders Display", serif;  
+   font-weight: 700;
+   font-size: 2.3rem;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   color: white;
+   margin: 25px;
+}
+div p {
+   font-family: "Lexend Deca", sans-serif;
+   font-weight: 400;
+   font-size: 15px;
+   color:hsla(0, 0%, 100%, 0.75);
+   margin-bottom: 4rem; 
+}
+div img, h2, p, button {
+   margin-left: 27px;
+}
+.orange {
+   background-color: hsl(31, 77%, 52%);
+   border-radius: 15px 0 0 15px;
+}
+.cyan {
+   background-color: hsl(184, 100%, 22%);
+}
+.dark-cyan {
+   background-color: hsl(179, 100%, 13%);
+   border-radius: 0 15px 15px 0;
+}
+button {
+   color: white;
+   font-size: 1rem;
+   font-family: "Lexend Deca", sans-serif;
+   border: none;
+   padding: 10px 25px;
+   border-radius: 20px;
+   cursor: pointer;
+   border: 2px solid white;
+   background-color: transparent;
+}
+button:hover {
+   background-color: white;
+}
+.orange button:hover {
+   color: hsl(31, 77%, 52%);
+}
+.cyan button:hover {
+   color: hsl(184, 100%, 22%);
+}
+.dark-cyan button:hover {
+   color: hsl(179, 100%, 13%);
+}
+.orange:hover, .cyan:hover, .dark-cyan:hover {
+   transform: translateY(-10px);
+}
+@media (max-width: 375px){
+   main {
+      height: auto;
+   }
+   section{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin: 20px 0 20px 0;
+   }
+   .orange {
+      border-radius: 15px 15px 0 0;
+   }
+   .dark-cyan {
+      border-radius: 0 0 15px 15px;
+   }
+   .orange:hover, .cyan:hover, .dark-cyan:hover {
+      transform: none;
+   }
+}
