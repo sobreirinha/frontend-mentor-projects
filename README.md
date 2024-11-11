@@ -17,5 +17,8 @@ Este é um projeto de componente de QR code. Acesse o link abaixo para visualiza
 
 ### 3. Social links profile main
 Este é um projeto de componente de Social links profile main. Acesse o link abaixo para visualizar:
--[Social links profile main](https://sobreirinha.github.io/frontend-mentor-projects/social-links-profile-main/index.html)
+- [Social links profile main](https://sobreirinha.github.io/frontend-mentor-projects/social-links-profile-main/index.html)
 <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ">Frontend Mentor</a>
+
+### 4. 3 Column Preview Card Component Main
+- [3 Column Preview Card Component Main](https://sobreirinha.github.io/frontend-mentor-projects/3-column-preview-card-component-main/index.html)
