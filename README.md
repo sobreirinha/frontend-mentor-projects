@@ -12,7 +12,7 @@ Este é um projeto de componente de resumo de pedido. Acesse o link abaixo para 
 
 ### 2. QR Code Component
 Este é um projeto de componente de QR code. Acesse o link abaixo para visualizar:
-- [QR Code Component](https://sobreirinha.github.io/frontend-mentor-projects/qr-code-component-main/index.html)
+- [QR Code Component](https://sobreirinha.github.io/frontend-mentor-projects/qr-code-component-main/index.html) <br>
 <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Frontend Mentor</a>
 
 ### 3. Social links profile main
